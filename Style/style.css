@@ -31,7 +31,7 @@ h1 {
 }
 
 .parrafoMain {
-    width: 22%;        
+    width: 44%;        
     text-align: center;
     font-size: 20px;
 }
@@ -52,7 +52,7 @@ h1 {
 }
 
 .fotoMain {
-    width: 25%;
+    width: 50%;
     margin-top: 3.5%;
     border-radius: 4%;
 }
@@ -66,11 +66,11 @@ h1 {
 
 .fotoCarta {
     border-radius: 4%;
-    width: 38%;
+    width: 76%;
 }
 
 .parrafoCarta {
-    width: 40%;
+    width: 80%;
     margin-left: 2%;
     text-align: justify;
 }
